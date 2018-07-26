@@ -14,7 +14,7 @@ In this lab, you'll
 
 ### Exercise 1
 
-Each year, 2000 students apply for undergrad programs at Stanford University. Among the applicants, 40% have an SAT score above 1550, 35% have an SAT score between 1450 and 1550 and 15% have an SAT below 1450. 
+Each year, 2000 students apply for undergrad programs at Stanford University. Among the applicants, 20% have an SAT score above 1550, 55% have an SAT score between 1450 and 1550 and 25% have an SAT below 1450. 
 
 Obviously, the probability of being admitted grows with the SAT score. People that have an SAT score of 1550 or higher have a probability of 80% of being admitted. For students that have scores between 1450 and 1550 this probability drops to 15%, for students that have an SAT score below 1450 this probability drops to 5%. 
 
@@ -49,7 +49,7 @@ There is a disease that affects a proportion of $\gamma$ of the human population
 
 Having the disease is affected by a genetic factor, and we know that the joint probability of you and your father having the disease is equal to $\delta$.
 
-Now our question is: given that your father doesn't have the disease, what is the probability that you won't get the disease? Create a two-way table to solve this:
+Now our question is: given that your father doesn't have the disease, what is the probability that you won't get the disease? Create a two-way table to solve for this in terms of $\gamma$ and $\delta$:
 
 P(A) = You have the disease
 
